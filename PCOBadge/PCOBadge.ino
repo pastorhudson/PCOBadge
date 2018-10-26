@@ -99,7 +99,7 @@ String fingerPRINT = "95 54 E1 9C 51 F1 9E 0A 2E 2F 41 51 9D A4 E4 83 26 80 71 7
    b64auth is the Base64 Encoded applicationID:secret
    You shouldn't need to edit these.*/
 String apiStatusURL = "http://status.planningcenteronline.com/index.json";
-                      String checkinAPIURL = "https://api.planningcenteronline.com/check_ins/v2/people/" + userID + "/check_ins?per_page=1/";
+String checkinAPIURL = "https://api.planningcenteronline.com/check_ins/v2/people/" + userID + "/check_ins?per_page=1/";
 String b64auth = base64::encode(applicationID + ":" + secret, false); // Base64 Encoded auth string
 
 bool OTA = false; //OTA mode disabled by default
