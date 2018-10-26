@@ -1,9 +1,10 @@
 # PCOBadge
 E-Paper name badge for Planning Center Check-ins
-Click Below to watch video
+
+Click image below to watch demo video
 
 [![Demo Video](https://img.youtube.com/vi/_Z6BfPnyGPg/hqdefault.jpg)](http://www.youtube.com/watch?v=_Z6BfPnyGPg)
-
+https://youtu.be/_Z6BfPnyGPg
 
 PCOBadge is a fun project by Ron Hudson.
 PCOBadge pulls an individual's checkin info from the Planning Center Check-ins api and displays it on an e-paper display.
