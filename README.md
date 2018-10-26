@@ -1,4 +1,4 @@
-# pcobadge
+# PCOBadge
 E-Paper name badge for Planning Center Check-ins
 
 PCOBadge is a fun project by Ron Hudson.
