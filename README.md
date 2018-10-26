@@ -29,3 +29,7 @@ String secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSecretxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 * Maybe edit this ¯\_(ツ)_/¯ SHA1 fingerprint of the certificate for api.planningcenteronline.com Expires Nov 24, 2019
 `String fingerPRINT = "95 54 E1 9C 51 F1 9E 0A 2E 2F 41 51 9D A4 E4 83 26 80 71 7C";`
+
+# This is built for Badgy iot E-Paper Badge
+* https://www.tindie.com/products/squarofumi/badgy-iot-badge/
+* http://badgy.sqfmi.com/
