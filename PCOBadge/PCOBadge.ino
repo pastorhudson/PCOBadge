@@ -228,7 +228,7 @@ void pcoAPI()
     display.setCursor(263, 69);
     display.println(security_code[2]);
     display.setCursor(263, 91);
-    display.println(security_code[0]);
+    display.println(security_code[3]);
 
     display.update();
   }
